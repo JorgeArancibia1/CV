@@ -1,11 +1,10 @@
 import React from 'react';
-import react from '../logo.png';
-import '../animation.css'
+import Header from './Header.js';
 
 function App() {
   return (
-    <div className="logo" >
-      <img className="rotacion" src={react} width="30%" />
+    <div>
+      <Header />
     </div>
   )
 }
