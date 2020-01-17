@@ -4,7 +4,7 @@ import avatar from '../images/me.png';
 const Header = () => {
   return (
     <div className="avatar-container">
-      <img src={avatar} alt="Avatar de presentación" width="70%" />
+      <img className="i" src={avatar} alt="Avatar de presentación" width="70%" />
     </div>
   )
 }

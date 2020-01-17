@@ -17,3 +17,6 @@ body{
   align-items: center;
   border: 1px solid;
 }
+.i{
+  display:none;
+}
