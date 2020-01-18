@@ -1,5 +1,4 @@
-body{
-  background-color: white;
+body, html{
   margin: 0;
   padding: 0;
 }
@@ -9,8 +8,11 @@ img{
   width: 20%;
 }
 
-div{
+div, section{
   border: 0.1px solid black;
+  box-sizing: unset;
+  margin: 0;
+  padding: 0;
 }
 
 .logo {

@@ -1,13 +1,11 @@
 import React from 'react';
-import avatar from '../images/me.png';
+import Avatar from './Avatar';
 
 const Header = () => {
   return (
-    <section className="container-fluid">
-      <div className="row border pt-3 pb-2">
-        <img className="mx-auto border rounded-circle p-1 bg-secondary col-5 col-sm-3 col-md-3 col-lg-3 col-xl-2" src={avatar} alt="Avatar de presentación"  />
-      </div>
-        
+    <section className="container-fluid m-auto p-0">
+      <Avatar />
+      <h1 className="text-center">Jorge Eduardo <p> Arancibia Leiva</p></h1>
     </section>
   )
 }
