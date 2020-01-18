@@ -4,6 +4,15 @@ body{
   padding: 0;
 }
 
+img{
+  max-width: 100%;
+  width: 20%;
+}
+
+div{
+  border: 0.1px solid black;
+}
+
 .logo {
   display: flex;
   justify-content: center;
@@ -15,8 +24,12 @@ body{
   display: flex;
   justify-content: center;
   align-items: center;
-  border: 1px solid;
+  /* border: 1px solid; */
 }
-.i{
-  display:none;
-}
+
+
+/* mx-auto */
+/* .centrar{
+  margin: 0 auto;
+} */
+
