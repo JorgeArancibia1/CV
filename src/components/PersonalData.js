@@ -1,8 +1,7 @@
 import React from 'react'
 import Model from './Model';
 
-
-function PersonalData(props) {
+const PersonalData = props => {
   //console.log("Esto es PersonalData")
   //console.log(props.data.info[0])
 

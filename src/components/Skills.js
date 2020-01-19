@@ -1,8 +1,7 @@
-import React from 'react'
+import React from 'react';
 import Model from './Model';
 
-
-function Skills(props) {
+const Skills = props => {
   return (
     <>
       <Model { ...props.data.info[2]}  />

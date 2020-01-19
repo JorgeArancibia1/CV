@@ -1,11 +1,10 @@
 import React from 'react'
 
-
-function Model(props) {
+const Model = ({ icon, title, item, content, item2, content2, item3, content3 }) => {
   //console.log("Esto es Model")
   //console.log(props.personalData.info[0])
 
-  const { icon, title, item, content, item2, content2, item3, content3 } = props;
+  //const { icon, title, item, content, item2, content2, item3, content3 } = props;
 
   // console.log("Esto es")
   // console.log(props.personalData)

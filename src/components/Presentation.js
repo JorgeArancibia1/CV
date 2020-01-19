@@ -1,8 +1,7 @@
-import React from 'react'
+import React from 'react';
 import Model from './Model';
 
-
-function Presentation(props) {
+const Presentation = props => {
   return (
     <>
       <Model { ...props.data.info[3]}  />

@@ -1,8 +1,7 @@
-import React from 'react'
+import React from 'react';
 import Model from './Model';
 
-
-function Certifications(props) {
+const Certifications = props => {
   return (
     <>
       <Model { ...props.data.info[6]}  />
