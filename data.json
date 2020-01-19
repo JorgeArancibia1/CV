@@ -1,0 +1,76 @@
+{
+  "info": [
+    {
+      "id": 1,
+      "icon": "",
+      "title": "DATOS PERSONALES",
+      "item": "Fecha de nacimiento:",
+      "content": "15/02/1995",
+      "item2": "Estado Civil:",
+      "content2": "Soltero",
+      "item3": "Nacionlidad:",
+      "content3": "Chilena"
+    },
+    {
+      "id": 2,
+      "icon": "",
+      "title": "CONTACTO",
+      "item": "Comuna:",
+      "content": "Puente Alto",
+      "item2": "Celular:",
+      "content2": "(+56)9 356 439 91",
+      "item3": "Correo:",
+      "content3": "jorge.arancibia.jeal@gmail.com"
+    },
+    {
+      "id": 3,
+      "icon": "",
+      "title": "HABILIDADES",
+      "item": "Idioma:",
+      "content": "Inglés básico",
+      "item2": "Lenguajes:",
+      "content2": "HTML, CSS, Bootstrap, JavaScript, React.js, Java SE, GIT, MY SQL",
+      "item3": "Sistemas:",
+      "content3": "Mac y Linux(Debian)"
+    },
+    {
+      "id": 4,
+      "icon": "",
+      "title": "PRESENTACIÓN",
+      "item": "Software developer, Ingeniero en mecánica automotriz y actualmente estudiante de la carrera Analista programador de INACAP. Capacitado para trabajar como desarrollador web, con aspiración a perfeccionar mis conocimientos principalmente en el área frontend. Me considero un apasionado por la programación y busco oportunidades para seguir creciendo en el área."
+    },
+    {
+      "id": 5,
+      "icon": "",
+      "title": "ESTUDIOS PROFESIONALES",
+      "item": "2019",
+      "content": "Centro de formación técnica INACAP - Analista programador",
+      "item2": "2014-2017",
+      "content2": "Instituto profesional DUOC UC - Ingeniero en mecánica automotriz",
+      "item3": "",
+      "content3": ""
+    },
+    {
+      "id": 6,
+      "icon": "",
+      "title": "EXPERIENCIA LABORAL",
+      "item": "2019",
+      "content": "Pasante - Sáltala by HC Partners",
+      "item2": "",
+      "content2": "Mi labor consistía en el desarrollo de una página web con React.js para la empresa junto a un equipo de personas.",
+      "item3": "",
+      "content3": ""
+    },
+    {
+      "id": 7,
+      "icon": "",
+      "title": "CERTIFICACIONES",
+      "item": "2018",
+      "content": "Curso profesional de Git y Github",
+      "item2": "2018",
+      "content2": "Curso de desarrollo Web online",
+      "item3": "2019",
+      "content3": "Curso de animaciones para la web"
+    }
+  ]
+}

@@ -1,11 +1,13 @@
 import React from 'react'
+import Model from './Model';
 
-function Presentation() {
+
+function Presentation(props) {
   return (
-    <div>
-      
-    </div>
+    <>
+      <Model { ...props.data.info[3]}  />
+    </>
   )
 }
 
-export default Presentation
+export default Presentation;
