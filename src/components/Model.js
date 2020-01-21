@@ -1,6 +1,7 @@
 import React from 'react';
 
 
+
 const Model = (props) => {
 // const Model = ({ icon, title, item, content, item2, content2, item3, content3, item4, content4 }) => {
   //console.log("Esto es Model")
