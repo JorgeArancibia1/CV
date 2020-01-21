@@ -4,7 +4,7 @@ import Model from './Model';
 const Skills = props => {
   return (
     <>
-      <Model { ...props.data.info[2]}  />
+      <Model { ...props.data.info[2] }  />
     </>
   )
 }

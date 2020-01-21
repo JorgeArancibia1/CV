@@ -1,0 +1,150 @@
+{
+  "info": [
+    {
+      "id": 1,
+      "icon": "fas fa-user-tie",
+      "title": "DATOS PERSONALES",
+      "items": [
+        {
+          "item": "Fecha de nacimiento:",
+          "content": "15/02/1995"
+        },
+        {
+          "item": "Estado Civil:",
+          "content": "Soltero"
+        },
+        {
+          "item": "Nacionlidad:",
+          "content": "Chilena"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "icon": "",
+      "title": "CONTACTO",
+      "items": [
+        {
+          "item": "Comuna:",
+          "content": "Puente Alto"
+        },
+        {
+          "item": "Celular:",
+          "content": "(+56)9 356 439 91"
+        },
+        {
+          "item": "Correo:",
+        "content": "jorge.arancibia.jeal@gmail.com"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "icon": "",
+      "title": "HABILIDADES",
+      "items": [
+        {
+          "item": "Dominio de Inglés",
+          "content": "básico"
+        },
+        {
+          "item": "Lenguajes:",
+          "content": "HTML, CSS, Bootstrap, JavaScript, React.js, Java SE, GIT, My SQL"    
+        },
+        {
+          "item": "Sistemas:",
+          "content": "Mac y Linux(Debian)"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "icon": "",
+      "title": "PRESENTACIÓN",
+      "items":[
+        {
+          "item": "Software developer, Ingeniero en mecánica automotriz y actualmente estudiante de la carrera Analista programador de INACAP. Capacitado para trabajar como desarrollador web, con aspiración a perfeccionar mis conocimientos principalmente en el área frontend. Me considero un apasionado por la programación y busco oportunidades para seguir creciendo en el área."
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "icon": "",
+      "title": "ESTUDIOS PROFESIONALES",
+      "items": [
+        {
+          "item": "2019",
+          "content": "Centro de formación técnica INACAP - Analista programador"
+          
+        },
+        {
+          "item": "2014-2017",
+          "content": "Instituto profesional DUOC UC - Ingeniero en mecánica automotriz"
+        },
+        {
+          "item": "",
+          "content": ""
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "icon": "",
+      "title": "EXPERIENCIA LABORAL",
+      "items": [
+        {
+          "item": "2019",
+          "content": "Pasante - Sáltala by HC Partners"
+        },
+        {
+          "item": "",
+          "content": "Mi labor consistía en el desarrollo de una página web con React.js para la empresa junto a un equipo de personas."
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "icon": "",
+      "title": "CERTIFICACIONES",
+      "items": [
+        {
+          "item": "2018",
+          "content": "Curso profesional de Git y Github"
+        },
+        {
+          "item": "2018",
+          "content": "Curso de desarrollo Web online"
+        },
+        {
+          "item": "2019",
+          "content": "Curso de animaciones para la web"
+
+        },
+        {
+          "item":"2019",
+          "content":"Curso de Responsive Design"
+        },
+        {
+          "item":"2019",
+          "content":"Curso de CSS Grid Layout"
+        },
+        {
+          "item":"2019",
+          "content":"Curso de Fundamentos de JavaScript"
+        },
+        {
+          "item":"2019",
+          "content":"Curso de HTML y CSS"
+        },
+        {
+          "item":"2019",
+          "content":"Curso de Programación funcional en JavaScript"
+        },
+        {
+          "item":"2019",
+          "content":"Curso de JQuery a JavaScript"
+        }
+      ]
+    }
+  ]
+}

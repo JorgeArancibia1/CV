@@ -4,7 +4,7 @@ import './index.css';
 import App from './components/App';
 
 import '../bootstrap.min.css';
-import 'normalize.css';
+
 
 function render() {
   ReactDOM.render(<App />, document.getElementById('app'));

@@ -1,13 +1,14 @@
 import React from 'react';
 import Header from './Header.js';
 import PersonalData from './PersonalData.js';
-import data from '../../data.json';
 import Presentation from './Presentation.js';
 import ProfesionalStudies from './ProfessionalStudies.js';
 import Contact from './Contact.js';
 import Skills from './Skills.js';
 import WorkExperience from './WorkExperience.js';
 import Certifications from './Certifications.js';
+
+import data from '../data.json';
 
 const App = () => {
   return (

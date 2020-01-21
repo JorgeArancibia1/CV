@@ -4,7 +4,7 @@ import Model from './Model';
 const Presentation = props => {
   return (
     <>
-      <Model { ...props.data.info[3]}  />
+      <Model { ...props.data.info[3] }  />
     </>
   )
 }
