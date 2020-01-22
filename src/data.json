@@ -2,7 +2,7 @@
   "info": [
     {
       "id": 1,
-      "icon": "'fas fa-user-tie'",
+      "icon": "fas fa-user",
       "title": "DATOS PERSONALES",
       "items": [
         {
@@ -21,7 +21,7 @@
     },
     {
       "id": 2,
-      "icon": "",
+      "icon": "fas fa-phone-alt",
       "title": "CONTACTO",
       "items": [
         {
@@ -40,11 +40,11 @@
     },
     {
       "id": 3,
-      "icon": "",
+      "icon": "fas fa-award",
       "title": "HABILIDADES",
       "items": [
         {
-          "item": "Dominio de Inglés",
+          "item": "Dominio de Inglés:",
           "content": "básico"
         },
         {
@@ -59,7 +59,7 @@
     },
     {
       "id": 4,
-      "icon": "",
+      "icon": "fas fa-child",
       "title": "PRESENTACIÓN",
       "items":[
         {
@@ -69,7 +69,7 @@
     },
     {
       "id": 5,
-      "icon": "",
+      "icon": "fas fa-university",
       "title": "ESTUDIOS PROFESIONALES",
       "items": [
         {
@@ -80,16 +80,12 @@
         {
           "item": "2014-2017",
           "content": "Instituto profesional DUOC UC - Ingeniero en mecánica automotriz"
-        },
-        {
-          "item": "",
-          "content": ""
         }
       ]
     },
     {
       "id": 6,
-      "icon": "",
+      "icon": "fas fa-briefcase",
       "title": "EXPERIENCIA LABORAL",
       "items": [
         {
@@ -104,7 +100,7 @@
     },
     {
       "id": 7,
-      "icon": "",
+      "icon": "fas fa-paperclip",
       "title": "CERTIFICACIONES",
       "items": [
         {
@@ -118,7 +114,6 @@
         {
           "item": "2019",
           "content": "Curso de animaciones para la web"
-
         },
         {
           "item":"2019",

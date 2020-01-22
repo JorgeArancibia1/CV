@@ -19,7 +19,7 @@ const Model = (props) => {
   // console.log(props.data.info[0])
 
   return (
-    <div>
+    <article>
       <table>
         <thead>
           <tr>
@@ -39,7 +39,7 @@ const Model = (props) => {
           ))}
         </tbody>
       </table>
-    </div>
+    </article>
   )
 }
 

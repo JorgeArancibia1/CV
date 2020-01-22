@@ -8,8 +8,8 @@ img{
   width: 20%;
 }
 
-div, section{
-  border: 0.1px solid black;
+article{
+  border-bottom: 1px solid lightslategray;
   box-sizing: unset;
   margin: 0;
   padding: 0;

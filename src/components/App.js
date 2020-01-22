@@ -10,6 +10,7 @@ import Certifications from './Certifications.js';
 
 import data from '../data.json';
 
+
 const App = () => {
   return (
     <div className="container-fluid d-flex flex-wrap p-0">
