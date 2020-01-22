@@ -8,11 +8,18 @@ img{
   width: 20%;
 }
 
-article{
-  border-bottom: 1px solid lightslategray;
+article {
+  /* border-bottom: 1px solid lightslategray; */
   box-sizing: unset;
   margin: 0;
   padding: 0;
+}
+
+.line {
+  width: 90%;
+  height: 2px;
+  background-color: #0093D3;
+  border-radius: 150px;
 }
 
 .logo {
@@ -28,6 +35,32 @@ article{
   align-items: center;
   /* border: 1px solid; */
 }
+
+.avatar{
+  background-image: url(./images/mee.jpeg);
+  width: 120px;
+  height: 120px;
+  background-size: cover;
+  background-position: center;
+  border: 1px solid #0093D3;
+}
+
+table td{
+  border: 0.1px solid red;
+  /* width: 100% */
+}
+
+table tr{
+  border: 1px solid green;
+  /* width: 100% */
+}
+
+table thead, tbody{
+  border: 1px solid blue;
+  /* width: 100% */
+}
+
+
 
 
 /* mx-auto */

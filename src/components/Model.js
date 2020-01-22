@@ -3,42 +3,26 @@ import React from 'react';
 
 
 const Model = (props) => {
-// const Model = ({ icon, title, item, content, item2, content2, item3, content3, item4, content4 }) => {
-  //console.log("Esto es Model")
-  //console.log(props.personalData.info[0])
-
-  //const { icon, title, item, content, item2, content2, item3, content3, item4, content4 } = props;
-
-  // console.log("Esto es props")
-  // console.log(props)
-
-  // console.log("Esto es props.data")
-  // console.log(props.data)
-
-  // console.log("Esto es props.data.info[0]")
-  // console.log(props.data.info[0])
 
   return (
-    <article>
-      <table>
-        <thead>
-          <tr>
-            <td>
+    <article className="mt-3">
+        <div className="d-flex">
+            <span className="ml-4 pl-2">
               <i className={props.icon} />
-            </td>
-            <td>{props.title}</td>
-          </tr>
-        </thead>
-        <tbody>
+            </span>
+            <h5 className="ml-4 font-weight-bold">{props.title}</h5>
+        </div>
+
+        <div>
           { props.items.map( (dat, index) => 
           (
-            <tr key={index}>
-              <td>{dat.item}</td>
-              <td>{dat.content}</td>
-            </tr>
+            <dl className="d-flex ml-3 pl-2 mt-3 row" key={index}>
+              <dt>{dat.item}</dt>
+              <dd className="text-justify col-11">{dat.content}</dd>
+            </dl>
           ))}
-        </tbody>
-      </table>
+        </div>
+      <div className="line mx-auto my-4"></div>
     </article>
   )
 }

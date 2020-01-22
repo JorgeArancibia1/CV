@@ -11,11 +11,11 @@
         },
         {
           "item": "Estado Civil:",
-          "content": "Soltero"
+          "content": "Soltero."
         },
         {
           "item": "Nacionlidad:",
-          "content": "Chilena"
+          "content": "Chilena."
         }
       ]
     },
@@ -26,7 +26,7 @@
       "items": [
         {
           "item": "Comuna:",
-          "content": "Puente Alto"
+          "content": "Puente Alto."
         },
         {
           "item": "Celular:",
@@ -45,15 +45,15 @@
       "items": [
         {
           "item": "Dominio de Inglés:",
-          "content": "básico"
+          "content": "básico."
         },
         {
           "item": "Lenguajes:",
-          "content": "HTML, CSS, Bootstrap, JavaScript, React.js, Java SE, GIT, My SQL"    
+          "content": "HTML, CSS, Bootstrap, JavaScript, React.js, Java SE, GIT, My SQL."    
         },
         {
           "item": "Sistemas:",
-          "content": "Mac y Linux(Debian)"
+          "content": "Mac y Linux(Debian)."
         }
       ]
     },
@@ -63,7 +63,7 @@
       "title": "PRESENTACIÓN",
       "items":[
         {
-          "item": "Software developer, Ingeniero en mecánica automotriz y actualmente estudiante de la carrera Analista programador de INACAP. Capacitado para trabajar como desarrollador web, con aspiración a perfeccionar mis conocimientos principalmente en el área frontend. Me considero un apasionado por la programación y busco oportunidades para seguir creciendo en el área."
+          "content": "Software developer, Ingeniero en mecánica automotriz y actualmente estudiante de la carrera Analista programador de INACAP. Capacitado para trabajar como desarrollador web, con aspiración a perfeccionar mis conocimientos principalmente en el área frontend. Me considero un apasionado por la programación y busco oportunidades para seguir creciendo en el área."
         }
       ]
     },
@@ -74,12 +74,12 @@
       "items": [
         {
           "item": "2019",
-          "content": "Centro de formación técnica INACAP - Analista programador"
+          "content": "Centro de formación técnica INACAP - Analista programador."
           
         },
         {
           "item": "2014-2017",
-          "content": "Instituto profesional DUOC UC - Ingeniero en mecánica automotriz"
+          "content": "Instituto profesional DUOC UC - Ingeniero en mecánica automotriz."
         }
       ]
     },
@@ -90,7 +90,7 @@
       "items": [
         {
           "item": "2019",
-          "content": "Pasante - Sáltala by HC Partners"
+          "content": "Pasante - Sáltala by HC Partners."
         },
         {
           "item": "",
