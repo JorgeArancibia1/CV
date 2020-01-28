@@ -46,7 +46,10 @@ article {
 }
 
 .box{
-  height: 80px;
+  height: 100px;
+  width: 40%;
+  /* min-width: 49%;
+  max-width: 300px; */
 }
 
 .min{
@@ -58,7 +61,7 @@ article {
 }
 
 .articleBox{
-  max-height: 450px;
+  max-height: 400px;
   overflow: scroll;
 }
 
