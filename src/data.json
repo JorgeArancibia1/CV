@@ -45,7 +45,7 @@
       "items": [
         {
           "item": "Dominio de Inglés:",
-          "content": "básico."
+          "content": "Básico."
         },
         {
           "item": "Lenguajes:",
@@ -104,16 +104,28 @@
       "title": "CERTIFICACIONES",
       "items": [
         {
-          "item": "2018",
-          "content": "Curso profesional de Git y Github"
+          "item": "2019",
+          "content": "Curso de Webpack"
         },
         {
-          "item": "2018",
-          "content": "Curso de desarrollo Web online"
+          "item": "2019",
+          "content": "Curso de React Router"
+        },
+        {
+          "item": "2019",
+          "content": "Curso de React.JS"
+        },
+        {
+          "item": "2019",
+          "content": "Curso de SQL y MySQL"
         },
         {
           "item": "2019",
           "content": "Curso de animaciones para la web"
+        },
+        {
+          "item": "2019",
+          "content": "Curso de Bootstrap"
         },
         {
           "item":"2019",
@@ -125,7 +137,11 @@
         },
         {
           "item":"2019",
-          "content":"Curso de Fundamentos de JavaScript"
+          "content":"Curso de JQuery a JavaScript"
+        },
+        {
+          "item":"2019",
+          "content":"Curso de Programación funcional en JavaScript"                    
         },
         {
           "item":"2019",
@@ -133,11 +149,62 @@
         },
         {
           "item":"2019",
-          "content":"Curso de Programación funcional en JavaScript"
-        },
+          "content":"Curso de Fundamentos de JavaScript"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "icon": "",
+      "title": "",
+      "items": [
         {
           "item":"2019",
-          "content":"Curso de JQuery a JavaScript"
+          "content":"Curso de Fundamentos de JavaScript"
+        },
+        {
+          "item": "2018",
+          "content": "Curso profesional de Git y Github"
+        },
+        {
+          "item": "2018",
+          "content": "Curso de desarrollo Web online"
+        },
+        {
+          "item": "2018",
+          "content": "Curso de Fundamentos de Bases de Datos"
+        },
+        {
+          "item": "2018",
+          "content": "Curso de Algoritmos con C"
+        },
+        {
+          "item": "2018",
+          "content": "Curso de Java Avanzado SE"
+        },
+        {
+          "item": "2018",
+          "content": "Curso Básico de Java SE"
+        },
+        {
+          "item": "2018",
+          "content": "Fundamentos de Ingeniería de software"
+        },
+        {
+          "item": "2018",
+          "content": "Curso de redes de internet"
+        },
+        {
+          "item": "2018",
+          "content": "Introducción a Terminal y línea de comandos"
+        },
+        {
+          "item": "2018",
+          "content": "Curso gratis de programación Básica"
+        },
+        {
+          "item": "2018",
+          "content": "Curso de Fundamentos de Electricidad y Electrónica"
         }
       ]
     }

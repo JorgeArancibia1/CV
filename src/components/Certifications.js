@@ -1,11 +1,12 @@
 import React from 'react';
-import Model from './Model';
+import CertificationsModel from './CertificationsModel';
 
 const Certifications = props => {
   return (
-    <>
-      <Model {...props.data.info[6]}  />
-    </>
+    <div className="d-flex flex-sm-nowrap flex-md-nowrap flex-lg-nowrap certificationBox">
+      <CertificationsModel {...props.data.info[6]}/>
+      <CertificationsModel {...props.data.info[7]} space />
+    </div>
   )
 }
 

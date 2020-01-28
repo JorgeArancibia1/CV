@@ -22,12 +22,12 @@ article {
   border-radius: 150px;
 }
 
-.logo {
+/* .logo {
   display: flex;
   justify-content: center;
   align-items: center; 
   height: 100vh;
-}
+} */
 
 .avatar-container{
   display: flex;
@@ -45,23 +45,28 @@ article {
   border: 1px solid #0093D3;
 }
 
-table td{
-  border: 0.1px solid red;
-  /* width: 100% */
+.box{
+  height: 80px;
 }
 
-table tr{
-  border: 1px solid green;
-  /* width: 100% */
+.min{
+  min-width: 280px;
 }
 
-table thead, tbody{
-  border: 1px solid blue;
-  /* width: 100% */
+.certificationBox{
+  flex-wrap: wrap;
 }
 
+.articleBox{
+  max-height: 450px;
+  overflow: scroll;
+}
 
-
+@media (min-width:443px) and (max-width: 575px){
+  .certificationBox{
+    flex-wrap: nowrap;
+  }
+}
 
 /* mx-auto */
 /* .centrar{
