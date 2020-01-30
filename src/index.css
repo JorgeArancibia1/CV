@@ -9,7 +9,6 @@ img{
 }
 
 article {
-  /* border-bottom: 1px solid lightslategray; */
   box-sizing: unset;
   margin: 0;
   padding: 0;
@@ -33,7 +32,6 @@ article {
   display: flex;
   justify-content: center;
   align-items: center;
-  /* border: 1px solid; */
 }
 
 .avatar{
@@ -48,8 +46,6 @@ article {
 .box{
   height: 100px;
   width: 40%;
-  /* min-width: 49%;
-  max-width: 300px; */
 }
 
 .min{
@@ -63,6 +59,15 @@ article {
 .articleBox{
   max-height: 400px;
   overflow: scroll;
+}
+
+.sombra{
+  box-shadow: 0 0.5px 0px lightgray;
+  width:80%;
+}
+
+.fontSize{
+  font-size: 175%;
 }
 
 @media (min-width:443px) and (max-width: 575px){

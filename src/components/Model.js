@@ -6,11 +6,11 @@ const Model = (props) => {
 
   return (
     <article className="mt-3">
-      <section className="d-flex">
+      <section className="d-flex align-items-end ">
         <span className="ml-4 pl-2">
           <i className={props.icon} />
         </span>
-        <h5 className="ml-4 font-weight-bold">{props.title}</h5>
+        <h5 className="ml-4 font-weight-bold bd-highlight my-0 py-0">{props.title}</h5>
       </section>
 
       <section className="overflow-hidden">
