@@ -6,7 +6,7 @@ const Model = (props) => {
 
   return (
     <article className="mt-3 ml-3 mr-0">
-      <section className="d-flex align-items-end ">
+      <section className="d-flex align-items-end ml-xl-4">
         <span className="ml-2">
           <i className={props.icon} />
         </span>
@@ -16,7 +16,7 @@ const Model = (props) => {
       <section className="">
         {props.items.map((dat, index) =>
           (
-            <dl className="d-flex ml-3 pl-2 mt-3 row" key={index}>
+            <dl className="d-flex ml-3 ml-xl-5 pl-2 mt-3 row" key={index}>
               {
                 props.i? <i className={dat.item}></i>
               : <dt>{dat.item}</dt>
