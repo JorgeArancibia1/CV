@@ -15,11 +15,13 @@
         },
         {
           "item": "fab fa-linkedin linkedin mas",
-          "content": "linkedin.com/in/jaranci"
+          "content": "linkedin.com/in/jaranci",
+          "link": "https://www.linkedin.com/in/jaranci/"
         },
         {
           "item":"fab fa-github github mas",
-          "content":"github.com/JorgeArancibia1"
+          "content":"github.com/JorgeArancibia1",
+          "link": "https://www.github.com/JorgeArancibia1"
         },
         {
           "item": "fas fa-map-marker-alt map mas",
@@ -28,19 +30,19 @@
         {
           
           "item": "fas fa-flag nationality mas",
-          "content": "Chilena."
+          "content": "Chileno"
         }
       ]
     },
     {
       "id": 2,
       "icon": "fas fa-walking fontSize",
-      "title": "Filosofía de vida",
+      "title": "FILOSOFÍA DE VIDA",
       "items": [
         
         {
           "item": "fas fa-star yellow",
-          "content": "\"Follow one course until successful\""
+          "content": "\"Follow one course until successful\"."
         }
       ]
     },
@@ -100,7 +102,7 @@
         },
         {
           "item": "",
-          "content": "El labor consistía en el desarrollo de una página web con React.js para la empresa junto a un equipo de personas."
+          "content": "El trabajo consistía en el desarrollo de una página web con React.js para la empresa junto a un equipo de personas."
         }
       ]
     },
@@ -163,7 +165,7 @@
         },
         {
           "item": "2018",
-          "content": "Curso de desarrollo Web online"
+          "content": "Curso de desarrollo web online"
         },
         {
           "item": "2018",

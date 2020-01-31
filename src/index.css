@@ -25,13 +25,6 @@ article {
   border-radius: 150px;
 }
 
-/* .logo {
-  display: flex;
-  justify-content: center;
-  align-items: center; 
-  height: 100vh;
-} */
-
 .avatar-container{
   display: flex;
   justify-content: center;
@@ -39,7 +32,7 @@ article {
 }
 
 .avatar{
-  background-image: url(./images/mee.jpeg);
+  background-image: url(./images/me.jpeg);
   width: 120px;
   height: 120px;
   background-size: cover;
@@ -48,7 +41,7 @@ article {
 }
 
 .box{
-  height: 120px;
+  height: 100px;
   width: 48%;
 }
 
@@ -64,11 +57,6 @@ article {
   max-height: 500px;
   overflow: scroll;
 }
-
-/* .sombra{
-  box-shadow: 0 0.5px 0px lightgray;
-  width:80%;
-} */
 
 .fontSize{
   font-size: 160%;
@@ -115,10 +103,8 @@ article {
   html{
     font-size: 16px;
   }
+  .box{
+    height: 70px;
+    width: 48%;
+  }
 }
-
-/* mx-auto */
-/* .centrar{
-  margin: 0 auto;
-} */
-

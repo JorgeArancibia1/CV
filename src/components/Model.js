@@ -21,7 +21,10 @@ const Model = (props) => {
                 props.i? <i className={dat.item}></i>
               : <dt>{dat.item}</dt>
               }
-              <dd className="text-justify col-11 col-lg-10 pl-2 pr-3">{dat.content}</dd>
+              {
+                props.a? <a className="text-justify col-11 col-lg-10 pl-2 pr-3" href={dat.link}>{dat.content}</a>
+                : <dd className="text-justify col-11 col-lg-10 pl-2 pr-3">{dat.content}</dd>
+              }
             </dl>
           ))}
       </section>
