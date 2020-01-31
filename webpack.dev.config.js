@@ -51,7 +51,8 @@ module.exports = {
     new webpack.HotModuleReplacementPlugin(), 
     new HtmlWebpackPlugin({
       title: 'Webpack 4',
-      template: path.resolve(__dirname, 'public/index.html') //le indica a webpack donde buscar el index.html.
+      template: path.resolve(__dirname, 'public/index.html'), //le indica a webpack donde buscar el index.html.
+      favicon: 'public/favicon.ico',
     })
   ]
 } 
