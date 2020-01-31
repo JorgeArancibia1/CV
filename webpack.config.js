@@ -68,7 +68,8 @@ module.exports = {
     }),
     new HtmlWebpackPlugin({
       title: 'Webpack 4',
-      template: path.resolve(__dirname, 'public/index.html') // Toma el index.html e inserta el javascript generado en el output.
+      template: path.resolve(__dirname, 'public/index.html'), // Toma el index.html e inserta el javascript generado en el output.
+      favicon: 'public/favicon.ico',
     }),
     new webpack.DllReferencePlugin({
       manifest: require('./modules-manifest.json')
