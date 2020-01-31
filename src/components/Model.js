@@ -5,7 +5,7 @@ import React from 'react';
 const Model = (props) => {
 
   return (
-    <article className="mt-3 ml-3 mr-0 pr-2">
+    <article className="mt-3 ml-3 mr-0 pr-2 overflow">
       <section className="d-flex align-items-end ml-xl-4">
         <span className="ml-2">
           <i className={props.icon} />

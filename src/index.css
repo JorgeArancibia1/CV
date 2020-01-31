@@ -87,6 +87,9 @@ article {
 .yellow{
   color: rgb(255, 204, 0);
 }
+.overflow{
+  overflow: hidden;
+}
 
 @media (min-width:443px) and (max-width: 575px){
   .certificationBox{
