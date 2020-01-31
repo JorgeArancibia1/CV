@@ -3,9 +3,9 @@ import Model from './Model';
 
 const ProfesionalStudies = props => {
   return (
-    <>
-      <Model { ...props.data.info[4] }  />
-    </>
+    <div className="mnl">
+      <Model { ...props.data.info[4] } />
+    </div>
   )
 }
 

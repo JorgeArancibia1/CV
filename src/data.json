@@ -6,35 +6,41 @@
       "title": "DATOS PERSONALES",
       "items": [
         {
-          "item": "Fecha de nacimiento:",
-          "content": "15/02/1995"
+          "item": "fas fa-phone-alt phone mas",
+          "content": "(+56)9 356 439 91"
         },
         {
-          "item": "Estado Civil:",
-          "content": "Soltero."
+          "item": "far fa-envelope nationality mas",
+          "content": "jorge.arancibia.jeal@gmail.com"
         },
         {
-          "item": "Nacionlidad:",
+          "item": "fab fa-linkedin linkedin mas",
+          "content": "linkedin.com/in/jaranci"
+        },
+        {
+          "item":"fab fa-github github mas",
+          "content":"github.com/JorgeArancibia1"
+        },
+        {
+          "item": "fas fa-map-marker-alt map mas",
+          "content": "Santiago - Chile"
+        },
+        {
+          
+          "item": "fas fa-flag nationality mas",
           "content": "Chilena."
         }
       ]
     },
     {
       "id": 2,
-      "icon": "fas fa-phone-alt fontSize",
-      "title": "CONTACTO",
+      "icon": "fas fa-walking fontSize",
+      "title": "Filosofía de vida",
       "items": [
+        
         {
-          "item": "Comuna:",
-          "content": "Puente Alto."
-        },
-        {
-          "item": "Celular:",
-          "content": "(+56)9 356 439 91"
-        },
-        {
-          "item": "Correo:",
-        "content": "jorge.arancibia.jeal@gmail.com"
+          "item": "fas fa-star yellow",
+          "content": "\"Follow one course until successful\""
         }
       ]
     },
@@ -48,7 +54,7 @@
           "content": "Básico."
         },
         {
-          "item": "Lenguajes:",
+          "item": "Fortalezas:",
           "content": "HTML, CSS, Bootstrap, JavaScript, React.js, Java SE, GIT, My SQL."    
         },
         {
@@ -63,7 +69,7 @@
       "title": "PRESENTACIÓN",
       "items":[
         {
-          "content": "Software developer, Ingeniero en mecánica automotriz y actualmente estudiante de la carrera Analista programador de INACAP. Capacitado para trabajar como desarrollador web, con aspiración a perfeccionar mis conocimientos principalmente en el área frontend. Me considero un apasionado por la programación y busco oportunidades para seguir creciendo en el área."
+          "content": "Software developer, Ingeniero en mecánica automotriz y actualmente estudiante de la carrera Analista programador de INACAP. Capacitado para trabajar como desarrollador web, con aspiraciones de perfeccionar conocimientos principalmente en el área frontend. Apasionado por la programación y actualmente buscando oportunidades para seguir creciendo en el área."
         }
       ]
     },
@@ -94,7 +100,7 @@
         },
         {
           "item": "",
-          "content": "Mi labor consistía en el desarrollo de una página web con React.js para la empresa junto a un equipo de personas."
+          "content": "El labor consistía en el desarrollo de una página web con React.js para la empresa junto a un equipo de personas."
         }
       ]
     },

@@ -1,6 +1,7 @@
 body, html{
   margin: 0;
   padding: 0;
+  font-size: 14px;
 }
 
 img{
@@ -12,6 +13,9 @@ article {
   box-sizing: unset;
   margin: 0;
   padding: 0;
+}
+.mnl{
+  margin-left: 0px;
 }
 
 .line {
@@ -44,8 +48,8 @@ article {
 }
 
 .box{
-  height: 100px;
-  width: 40%;
+  height: 120px;
+  width: 48%;
 }
 
 .min{
@@ -57,22 +61,59 @@ article {
 }
 
 .articleBox{
-  max-height: 400px;
+  max-height: 500px;
   overflow: scroll;
 }
 
-.sombra{
+/* .sombra{
   box-shadow: 0 0.5px 0px lightgray;
   width:80%;
-}
+} */
 
 .fontSize{
-  font-size: 175%;
+  font-size: 160%;
+}
+
+.phone{
+  color: #14c411;
+}
+
+.linkedin {
+  color: #0077B5;
+}
+
+.github{
+  color: #5B267F;
+}
+
+.nationality{
+  color: #D30026;
+}
+
+.map{
+  color: #007CF9;
+}
+.mas{
+  font-size: 140%;
+}
+.yellow{
+  color: rgb(255, 204, 0);
 }
 
 @media (min-width:443px) and (max-width: 575px){
   .certificationBox{
     flex-wrap: nowrap;
+  }
+}
+@media (min-width:768px){
+  .mnl{
+    margin-left: 0px;
+  }
+  .fontSize{
+    font-size: 175%;
+  }
+  html{
+    font-size: 16px;
   }
 }
 

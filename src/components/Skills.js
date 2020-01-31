@@ -3,9 +3,9 @@ import Model from './Model';
 
 const Skills = props => {
   return (
-    <>
-      <Model { ...props.data.info[2] } hidden />
-    </>
+    <div className="mnl">
+      <Model { ...props.data.info[2] } />
+    </div>
   )
 }
 
