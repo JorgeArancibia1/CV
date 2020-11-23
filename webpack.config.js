@@ -19,17 +19,6 @@ module.exports = {
     publicPath: 'https://JorgeArancibia1.github.io/CV/', // Aquí se debe cambiar por la dirección del servidor. // DOMINIO/donde esta el archivo javascript // Dominio que se aloja en el servidor.
     chunkFilename: 'js/[id].[chunkhash].js'
   },
-  optimization: {
-    //minimize: true,
-    minimizer: [
-      new TerserPlugin(), // Para optimizar y comprimir los Javascript.
-      new OptimizeCssAssetsPlugin() // Para optimizar y comprimir los css.
-      // new OptimizeCssAssetsPlugin({
-      //   assetNameRegExp: /\.optimize\.css$/g,
-      //   canPrint: true
-      // })
-    ]
-  },
   module: {
     rules:[
       {
