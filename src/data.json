@@ -97,7 +97,15 @@
       "title": "EXPERIENCIA LABORAL",
       "items": [
         {
-          "item": "2019",
+          "item": "Diciembre 2020 - Actualidad",
+          "content": "Desarrollador de software - Waypoint Telecomunicaciones S.A."
+        },
+        {
+          "item": "",
+          "content": "Mis funciones se han desempeñado en distintas áreas, tanto hacer frontend con Vue.js, como resolver diferentes features con Java o React Native."
+        },
+        {
+          "item": "Julio – Septiembre 2019",
           "content": "Pasante - Sáltala by HC Partners."
         },
         {
