@@ -52,7 +52,11 @@
       "title": "HABILIDADES",
       "items": [
         {
-          "item": "Dominio de Inglés:",
+          "item": "Dominio de Inglés escrito:",
+          "content": "Intermedio."
+        },
+        {
+          "item": "Dominio de Inglés hablado:",
           "content": "Básico."
         },
         {
@@ -85,7 +89,7 @@
       "title": "ESTUDIOS PROFESIONALES",
       "items": [
         {
-          "item": "2019",
+          "item": "2019 - 2021",
           "content": "Centro de formación técnica INACAP - Analista programador."
           
         },

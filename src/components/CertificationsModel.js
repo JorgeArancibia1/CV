@@ -2,7 +2,7 @@ import React from 'react'
 
 const CertificationsModel = (props) => {
   return (
-    <article className="d-flex flex-wrap mt-4 ml-4 ml-xl-5 overflow">
+    <article className="d-flex flex-wrap mt-1 ml-4 ml-xl-5 overflow">
       <section className="d-flex flex-wrap">
         <span className="mx-0 pl-2">
           <i className={props.icon} />
