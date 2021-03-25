@@ -60,6 +60,10 @@
           "content": "HTML, CSS, Bootstrap, JavaScript, React.js, Java SE, GIT, My SQL."    
         },
         {
+          "item": "Otras:",
+          "content": "Vue.js, Mongo DB."    
+        },
+        {
           "item": "Sistemas Operativos:",
           "content": "Windows, Mac y Linux(Debian, Ubuntu)."
         }
