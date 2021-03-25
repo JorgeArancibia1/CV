@@ -120,6 +120,10 @@
       "title": "CERTIFICACIONES",
       "items": [
         {
+          "item": "2020",
+          "content": "Curso profesional de Backend"
+        },
+        {
           "item": "2019",
           "content": "Curso de Webpack"
         },
