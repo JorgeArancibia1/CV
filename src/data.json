@@ -61,11 +61,11 @@
         },
         {
           "item": "Fortalezas:",
-          "content": "HTML, CSS, Bootstrap, JavaScript, React.js, Java SE, GIT, My SQL."    
+          "content": "GIT, HTML, CSS, Bootstrap, JavaScript, React.js."
         },
         {
           "item": "Otras:",
-          "content": "Vue.js, Mongo DB."    
+          "content": "Vue.js, Next.js, Mongo DB, PostgrSQL, Sass, Node.js, Java SE, MySQL."
         },
         {
           "item": "Sistemas Operativos:",
@@ -79,7 +79,7 @@
       "title": "PRESENTACIÓN",
       "items":[
         {
-          "content": "Software developer, Ingeniero en mecánica automotriz y actualmente estudiante de la carrera Analista programador de INACAP. Capacitado para trabajar como desarrollador web, con aspiraciones de perfeccionar conocimientos principalmente en el área frontend. Apasionado por la programación y actualmente buscando oportunidades para seguir creciendo en el área."
+          "content": "Frontend developer, Ingeniero en mecánica automotriz y titulado de la carrera Analista programador de INACAP. Capacitado para trabajar como desarrollador web, con aspiraciones de perfeccionar conocimientos principalmente en el área frontend. Apasionado por la programación y actualmente buscando oportunidades para seguir creciendo en el área. Me encanta Javascript ♡."
         }
       ]
     },
