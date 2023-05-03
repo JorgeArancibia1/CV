@@ -19,8 +19,8 @@
           "link": "https://www.linkedin.com/in/jaranci/"
         },
         {
-          "item":"fab fa-github github mas",
-          "content":"github.com/JorgeArancibia1",
+          "item": "fab fa-github github mas",
+          "content": "github.com/JorgeArancibia1",
           "link": "https://www.github.com/JorgeArancibia1"
         },
         {
@@ -28,7 +28,6 @@
           "content": "Santiago - Chile"
         },
         {
-          
           "item": "fas fa-flag nationality mas",
           "content": "Chileno"
         }
@@ -39,7 +38,6 @@
       "icon": "fas fa-walking fontSize",
       "title": "FILOSOFÍA DE VIDA",
       "items": [
-        
         {
           "item": "fas fa-star yellow",
           "content": "\"Sigue un solo camino hasta alcanzar el éxito\"."
@@ -77,7 +75,7 @@
       "id": 4,
       "icon": "fas fa-child fontSize",
       "title": "PRESENTACIÓN",
-      "items":[
+      "items": [
         {
           "content": "Frontend developer, Ingeniero en mecánica automotriz y titulado de la carrera Analista programador de INACAP. Capacitado para trabajar como desarrollador web, con aspiraciones de perfeccionar conocimientos principalmente en el área frontend. Apasionado por la programación y actualmente buscando oportunidades para seguir creciendo en el área. Me encanta Javascript ♡."
         }
@@ -91,7 +89,6 @@
         {
           "item": "2019 - 2021",
           "content": "Centro de formación técnica INACAP - Analista programador."
-          
         },
         {
           "item": "2014-2017",
@@ -105,12 +102,20 @@
       "title": "EXPERIENCIA LABORAL",
       "items": [
         {
-          "item": "Diciembre 2020 - Actualidad",
-          "content": "Desarrollador de software - Waypoint Telecomunicaciones S.A."
+          "item": "Julio 2022 - Noviembre 2022",
+          "content": "Frontend developer - RentApp"
+        },
+        {
+          "item": "Dentro de mis funciones estaban: Trabajar en dos proyectos distintos, en uno se trabaja con React.js, con Apollo y material-ui, en donde mis labores están principalmente en modificar features ya existentes y corregir bugs de la aplicación web. En el segundo proyecto, lo realicé desde cero con la tecnología de Next.js, estaba a cargo de él, lo que significó trabajar en él desde cero, construir nuevas características según se requerían y el manejo y control de bugs de la aplicación.",
+          "content": ""
+        },
+        {
+          "item": "Diciembre 2020 - Septiembre 2021",
+          "content": "Software developer - Waypoint Telecomunicaciones S.A."
         },
         {
           "item": "",
-          "content": "Mis funciones se han desempeñado en distintas áreas, tanto hacer frontend con Vue.js, como resolver diferentes features con Java o React Native."
+          "content": "Dentro de mis funciones estaban: Desarrollar productos nuevos con Vue.js, resolver diferentes features con Java o React Native, también trabajé con bases de datos PostgreSQL, además de ocupar AWS para el servicio en la nube."
         },
         {
           "item": "Julio – Septiembre 2019",
@@ -156,28 +161,28 @@
           "content": "Curso de Bootstrap"
         },
         {
-          "item":"2019",
-          "content":"Curso de Responsive Design"
+          "item": "2019",
+          "content": "Curso de Responsive Design"
         },
         {
-          "item":"2019",
-          "content":"Curso de CSS Grid Layout"
+          "item": "2019",
+          "content": "Curso de CSS Grid Layout"
         },
         {
-          "item":"2019",
-          "content":"Curso de JQuery a JavaScript"
+          "item": "2019",
+          "content": "Curso de JQuery a JavaScript"
         },
         {
-          "item":"2019",
-          "content":"Curso de Programación funcional en JavaScript"                    
+          "item": "2019",
+          "content": "Curso de Programación funcional en JavaScript"
         },
         {
-          "item":"2019",
-          "content":"Curso de HTML y CSS"
+          "item": "2019",
+          "content": "Curso de HTML y CSS"
         },
         {
-          "item":"2019",
-          "content":"Curso de Fundamentos de JavaScript"
+          "item": "2019",
+          "content": "Curso de Fundamentos de JavaScript"
         },
         {
           "item": "2018",
